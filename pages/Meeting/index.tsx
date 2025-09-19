@@ -10,7 +10,6 @@ function Meeting() {
         <div className='video-grid'>
           <VideoTile />
           <VideoTile />
-          <VideoTile />
         </div>
       </div>
 
